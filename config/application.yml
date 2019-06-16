@@ -1,0 +1,16 @@
+mail:
+  host: smtp.gmail.com
+  port: 25
+  user-name: lidaigang01@gmail.com
+  password:
+  ssl-port: 465
+
+mysql:
+  server-id: 1
+  flavor: mysql
+  host: 172.0.0.1
+  port: 3306
+  user: maxwell
+  password: maxwell
+  database: maxwell
+  binlog-file: mysql-bin.000577
